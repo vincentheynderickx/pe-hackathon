@@ -7,7 +7,7 @@ df.columns=['Annee', 'Bonheur', 'Log_PIB', 'Support_social','Esperance_de_vie', 
 
 
 df1=df.sort_values('annee')
-    
+
 L=[i for i in range(2005,2023)]
 df2005=df['annee']==2005
 
