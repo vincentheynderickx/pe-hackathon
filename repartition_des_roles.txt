@@ -2,7 +2,8 @@ Travail de Lucas:
 Tri des données
 
 Travail de Olivier:
-cr éation courbe
+
 Travail de Vincent:
+Développement de l'outil pour aficher des cartes
 
 Travail d'Aymeric:
