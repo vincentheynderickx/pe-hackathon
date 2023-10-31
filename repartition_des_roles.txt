@@ -3,6 +3,8 @@ Tri des données
 
 Travail de Olivier:
 
+
 Travail de Vincent:
+Développement de l'outil pour aficher des cartes
 
 Travail d'Aymeric:
